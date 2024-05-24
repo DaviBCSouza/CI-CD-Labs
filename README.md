@@ -1,1 +1,1 @@
-Exercício 01 do Laboratório 03
+Exercício 02 do Laboratório 03
